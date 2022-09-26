@@ -1,0 +1,4 @@
+i = "Ajam"
+while(1):
+    print(i+h,end=" ")
+    i = i+1
